@@ -5,10 +5,11 @@ The projects are accomplished for learning purposes. The projects are presented 
 Projects are listed in the order that they were completed.
 
 Certification of completion
-|Sprint   | Project name  | Description   | Libraries used|
+
+<div class="foo">
+
+|Sprint| Project name| Description| Libraries used |
 | :------- | :------------|:--------------|:--------------|
-| 1   | Big Cities Music| Comparison of preferences of "Yandex.Music"
-users from Moscow and Saint-Peterburg depending on time of day (morning and evening)
-and weekday (Monday, Wednesday and Friday). |pandas|
+| 1          | Big Cities Music           | Comparison of preferences of "Yandex.Music" users from Moscow and Saint-Peterburg depending on time of day (morning and evening) and weekday (Monday, Wednesday and Friday). |pandas         |
 | Текст   | Текст         | Текст    | text               |
 
