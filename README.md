@@ -1,2 +1,2 @@
 # yandex_praktikum_projects
-Projects were completed during extensive training at Data Science Yandex workshop. 
+A collection of projects completed within [Practicum's Data Science professional training program.](https://practicum.com/data-science/)
